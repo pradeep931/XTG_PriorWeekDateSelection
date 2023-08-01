@@ -1,0 +1,42 @@
+{
+  "DisplayName": "XTGDateLogicComponent",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "startdate",
+      "DisplayName": "startdate",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "enddate",
+      "DisplayName": "enddate",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "BoolValidDay",
+      "DisplayName": "BoolValidDay",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}
